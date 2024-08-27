@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CassandraScheduledTask", "CassandraScheduledTask\CassandraScheduledTask.csproj", "{158AA07D-A082-4276-8252-CAA8977F29F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158AA07D-A082-4276-8252-CAA8977F29F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158AA07D-A082-4276-8252-CAA8977F29F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158AA07D-A082-4276-8252-CAA8977F29F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158AA07D-A082-4276-8252-CAA8977F29F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D699BD80-281C-45B0-A1F0-3C0F7427AE1D}
+	EndGlobalSection
+EndGlobal
